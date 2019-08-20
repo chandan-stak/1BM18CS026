@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 #include<ctype.h>
 void push(char item,char s[100],int *t);
