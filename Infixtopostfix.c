@@ -111,6 +111,7 @@ item=infix_exp[i];
 for(i=top;i>=0;i--)
 {
  postfix_exp[j]=pop(stack,&top);
+ j++;
 }
 postfix_exp[j]='\0';
 
