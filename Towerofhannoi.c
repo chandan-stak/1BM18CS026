@@ -1,5 +1,5 @@
 #include<stdio.h>
-void towerhanoi(int n,char 'A',char 'B',char 'C');
+void towerhanoi(int n,char src,char temp,char dest);
 int main()
 {
 int n;
