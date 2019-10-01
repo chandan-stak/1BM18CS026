@@ -86,3 +86,49 @@ switch(c)
 }while(c!=4);
 return 0;
 }
+/*
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+1
+Enter the element you want to push :
+2
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+1
+Enter the element you want to push :
+3
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+1
+Enter the element you want to push :
+4
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+3
+Contents of List are :
+4
+3
+2
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+2
+Popped Element = 4 
+ Press 1: Push
+ Press 2: Pop
+ Press 3: Display
+ Press 4:Exit
+3
+Contents of List are :
+3
+2
+*/
