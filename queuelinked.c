@@ -97,3 +97,52 @@ switch(c)
 }while(c!=4);
 return 0;
 }
+/*
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+1
+Enter the element you want to Insert :
+2
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+3
+Contents of List are :
+2
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+1
+Enter the element you want to Insert :
+4
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+3
+Contents of List are :
+2
+4
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+2
+Deleted Element = 2 
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+3
+Contents of List are :
+4
+ Press 1: Insert
+ Press 2: Delete
+ Press 3: Display
+ Press 4:Exit
+4
+*/
