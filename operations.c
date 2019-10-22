@@ -157,3 +157,181 @@ printf("Enter 1 to continue 0 to exit\n");
 }while(p==1);
 return 0;
 }
+/*
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+1
+Enter the element to be inserted into List 1:
+3
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+1
+Enter the element to be inserted into List 1:
+5
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+1
+Enter the element to be inserted into List 1:
+2
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+2
+Enter the element to be inserted into List 2:
+4
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+2
+Enter the element to be inserted into List 2:
+2
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+2
+Enter the element to be inserted into List 2:
+6
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+6
+Contents of the List 1:
+2
+5
+3
+Contents of the List 2:
+6
+2
+4
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+3
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+6
+Contents of the List 1:
+2
+3
+5
+Contents of the List 2:
+2
+4
+6
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+4
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+6
+Contents of the List 1:
+5
+3
+2
+Contents of the List 2:
+6
+4
+2
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+5
+Enter 1 to continue 0 to exit
+1
+Enter 
+ 1.Insertion of List 1
+ 2.Insertion of List 2
+ 3.Sort
+ 4.Reverse
+ 5.Concatinate
+ 6.Display
+6
+Contents of the List 1:
+5
+3
+2
+6
+4
+2
+Contents of the List 2:
+6
+4
+2
+Enter 1 to continue 0 to exit
+*/
